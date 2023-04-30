@@ -1,0 +1,25 @@
+﻿@model Cool_events.Models.Users
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/LogInDesign.css" rel="stylesheet" />
+</head>
+<body>
+    <form method="post" asp-action="LogIn">
+        <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input asp-for="Username" class="form-control" placeholder="Username" required />
+
+            <label for="psw"><b>Password</b></label>
+            <input asp-for="Password" class="form-control" placeholder="Enter Password" required />
+
+            <button type="submit" asp-controller="Home" asp-action="Login"> Login</button>
+        </div>
+    </form>
+</body>
+</html>

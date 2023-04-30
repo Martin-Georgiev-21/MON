@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/LogInDesign.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <div class="container">
+            <button type="submit" asp-controller="User" asp-action="Index">Users - @Counting.Users</button>
+            <button type="submit" asp-controller="Event" asp-action="Index">Events - @Counting.Events</button>
+            <button type="submit" asp-controller="Ticket" asp-action="IndexAdmin">Tickets - @Counting.Tickets</button>
+        </div>
+    </form>
+</body>
+</html>

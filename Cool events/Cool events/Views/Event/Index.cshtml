@@ -1,0 +1,106 @@
+﻿@model Cool_events.Models.BigView
+
+<div class="row pt-4">
+    <div class="col-6">
+        <h2 class="text-primary">Events Table</h2>
+    </div>
+    @if (Logged.IsAdmin == true)
+    {
+        <div class="col-6 text-right">
+            <a asp-controller="Event" asp-action="CreateEvent" class="btn btn-primary">
+                Create User
+            </a>
+        </div>
+    }
+</div>
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-controller="Event" asp-action="Index" method="get">
+            <div class="form-group row">
+                <label class="col-sm-4 col-form-label">Search:</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" name="searchString" value="@ViewData["CurrentFilter"]" />
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-12">
+                    <button type="submit" class="btn btn-primary">Filter</button>
+                    <a asp-controller="Event" asp-action="Index" class="btn btn-secondary">Clear</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Discription
+            </th>
+            <th>
+                Photo
+            </th>
+            <th>
+                EventDate
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model.Events)
+        {
+        <tr>
+            <td width="50%">@obj.EventId</td>
+            <td width="50%">@obj.Name</td>
+            <td width="50%">@obj.Discription</td>
+            <td width="50%">
+                <img style="width: 200px; height: 100px" src="@obj.Photo" />
+            </td>
+            <td width="50%">@obj.EventDate</td>
+            @if (Logged.IsAdmin == true)
+            {
+                <td class="text-center">
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-controller="Event" class="btn btn-info w-100" asp-route-Id="@obj.EventId" asp-action="EditEvent">
+                            Edit
+                        </a>
+
+                        <a asp-controller="Event" class="btn btn-danger" asp-route-Id="@obj.EventId" asp-action="DeleteEvent">
+                            Delete
+                        </a>
+                    </div>
+                </td>
+            }
+            else
+            {
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Event" class="btn btn-success" asp-route-Id="@obj.EventId" asp-action="GetTicket">
+                                    Get Ticket
+                                </a>
+                            </div>
+                        </td>
+                }
+            }
+        </tr>
+        }
+    </tbody>
+</table>
+
+<div class="col-6 text-right">
+    <a asp-controller="Home" asp-action="Back" class="btn btn-danger">
+        Back
+    </a>
+</div>

@@ -1,0 +1,47 @@
+﻿@model Cool_events.Models.Tickets
+
+<form method="post">
+    <input asp-for="TicketId" hidden />
+    <div class="border p-3">
+        <div class="form-group row">
+            <h2 class="text-info pl-3">Edit Ticket</h2>
+        </div>
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="Event"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="Event" class="form-control" value="@Model.Event" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="User"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="User" class="form-control" value="@Model.User" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+
+                        <div class="col">
+                            <input type="submit" class="btn btn-info w-100" value="Update" />
+                        </div>
+                        <div class="col">
+                            <a asp-action="IndexAdmin" class="btn btn-success w-100">Back</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-4">
+                @* Keep this empty *@
+            </div>
+        </div>
+    </div>
+</form>

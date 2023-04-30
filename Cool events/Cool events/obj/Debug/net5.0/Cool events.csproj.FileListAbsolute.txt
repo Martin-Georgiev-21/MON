@@ -1,0 +1,158 @@
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\appsettings.json
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.exe
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.deps.json
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.runtimeconfig.json
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.runtimeconfig.dev.json
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ref\Cool events.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.pdb
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.Views.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Cool events.Views.pdb
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.csproj.AssemblyReference.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.AssemblyInfoInputs.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.AssemblyInfo.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.csproj.CoreCompileInputs.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.RazorAssemblyInfo.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.RazorAssemblyInfo.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\staticwebassets\Cool events.StaticWebAssets.Manifest.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\staticwebassets\Cool events.StaticWebAssets.xml
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\scopedcss\bundle\Cool events.styles.css
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.TagHelpers.input.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.TagHelpers.output.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.RazorCoreGenerate.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.RazorTargetAssemblyInfo.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.RazorTargetAssemblyInfo.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.Views.pdb
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.csproj.CopyComplete
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.dll
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\ref\Cool events.dll
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.pdb
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Cool events.genruntimeconfig.cache
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Error.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Index.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Privacy.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\AfterLogInAdmin.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\AfterLogInNoAdmin.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\xunit.core.dll
+C:\Users\mgeor\source\Cool events\Cool events\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\User\CreateUser.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\User\EditUser.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Event\CreateEvent.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Event\EditEvent.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Ticket\IndexAdmin.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Ticket\AddTicket.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Ticket\EditTicket.cshtml.g.cs
+C:\Users\mgeor\source\Cool events\Cool events\obj\Debug\net5.0\Razor\Views\Ticket\IndexNoAdmin.cshtml.g.cs
